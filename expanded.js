@@ -1,7 +1,7 @@
 https://www.codewars.com/kata/5842df8ccbd22792a4000245
 
 function expanded(num){
-  let temp = [], answer="'";
+  let temp = [], answer="";
   while(num>=10){
       let s = num.toString();
       let length =  num.toString().length;
@@ -13,7 +13,7 @@ function expanded(num){
   for(let x=0;x<temp.length;x++){
      answer+=temp[x].toString();
      if(x==temp.length-1){
-        answer+="'";
+        answer+="";
      }
      else{
         answer+=" + "

@@ -20,5 +20,3 @@ function oddevensort(array){
         return array;
 
 }
-let array = [5, 3, 2, 8, 1, 4];
-console.log(oddevensort(array));

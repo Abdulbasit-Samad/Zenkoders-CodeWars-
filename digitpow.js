@@ -1,3 +1,4 @@
+//https://www.codewars.com/kata/5552101f47fc5178b1000050
 function digitpow(n,p){
     digits = [];
     let len = n.toString().length,sum=0,i=0,temp=n;

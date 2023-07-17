@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/55c6126177c9441a570000cc/javascript
+//https://www.codewars.com/kata/55c6126177c9441a570000cc/javascript
 
 function sumdigits(n){
     let sum=0;

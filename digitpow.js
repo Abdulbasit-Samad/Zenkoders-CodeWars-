@@ -20,4 +20,4 @@ function digitpow(n,p){
       return sum/temp;
     }
 }
-console.log(digitpow(46288,3));
+

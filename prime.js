@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/54d512e62a5e54c96200019e/javascript
+//https://www.codewars.com/kata/54d512e62a5e54c96200019e/javascript
 
 function prime(n){
     let array = [],s="",temp=[];

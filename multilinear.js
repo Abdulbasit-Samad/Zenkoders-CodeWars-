@@ -1,5 +1,7 @@
 //https://www.codewars.com/kata/55f89832ac9a66518f000118/javascript
 
+//expression is solved correctly but arrangements of terms are different :)
+
 function multilinear(s){
     let dictionary = {};
     let exp = [];

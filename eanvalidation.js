@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/55563df50dda59adf900004d/train/javascript
+
 function ean(s){
     let sum = 0,checksum=undefined;
     for(let x=0;x<s.length-1;x++){

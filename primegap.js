@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/train/javascript
+
 function primegap(g,m,n){
     let prime= [];
     for(let x=m;x<=n;x++){
